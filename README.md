@@ -1,8 +1,8 @@
 # curso-kotlin
 
-Curso Kotlin desde Cero
+# Curso Kotlin desde Cero
 
-#Proyecto bola mágica
+# Proyecto bola mágica
 
 Este  en un programa de consola donde el usuario ingresa por teclado una pregunta y recibe una  respuesta de una  serie de respuestas que tiene preparadas el programa.
 
